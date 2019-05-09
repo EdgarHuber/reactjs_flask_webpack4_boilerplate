@@ -1,0 +1,5 @@
+__pychache__/
+.vscode/
+static/dist
+static/node_modules
+static/package-lock.json
