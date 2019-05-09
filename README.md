@@ -3,9 +3,14 @@
 ![stack](https://raw.githubusercontent.com/EdgarHuber/reactjs_flask_webpack4_boilerplate/master/readme%20images/stack.png)
 
 - [Installation](#Installation)
-
-- [Start the application](#Start-the-application)
-
+    - [Get the repository](#Get-the-repository)
+    - [Backend setup](#Backend-setup)
+    - [Frontend setup](#Frontend-setup)
+- [Run the application](#Start-the-application)
+    - [Start backend](#Start-backend)
+    - [Start frontend](#Start-frontend)
+- [Enjoy your application](# Enjoy-your-application)
+    [Hint for Google Chrome users](# Hint-for-Google-Chrome-users)
 - [Some notes](#Some-notes)
 
 <br>
@@ -27,7 +32,7 @@ clone it to your local machine
 </pre>
 
 
-### Setup Flask backend
+### Backend setup
 
 python 3 required!
 
@@ -46,7 +51,7 @@ install all neccessary python packages
     pip install -r requirements.txt
 </pre>
 
-### Setup ReacJS frontend
+### Frontend setup
 
 navigate to the frontend part (inside of static)
 
@@ -71,9 +76,9 @@ you will see the new directory "dist", it includes bundle.js and a public folder
 
 ![file_strucutre](https://raw.githubusercontent.com/EdgarHuber/reactjs_flask_webpack4_boilerplate/master/readme%20images/file_structure.png)
 
-## Start the application
+## Run the application
 
-### Run backend
+### Start backend
 
 Open a terminal and navigate to server.py at the beginning path of the application
 
@@ -94,7 +99,7 @@ if you did the setup right, you will see the following:
  	* Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 </pre>
 
-### Run frontend
+### Start frontend
 
 open another terminal and navigate to the frontend part (inside of the static folder)
 
@@ -106,7 +111,7 @@ start the frontend part in development mode
 
 development mode means, everytime you do some changes on the react application, webpack will update the bundle package.
 
-### Enjoy your application
+## Enjoy your application
 
 Open a browser of your choice and navigate to
 
