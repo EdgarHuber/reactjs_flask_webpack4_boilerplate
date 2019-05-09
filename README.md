@@ -9,7 +9,7 @@
 - [Run the application](#Start-the-application)
     - [Start backend](#Start-backend)
     - [Start frontend](#Start-frontend)
-- [Enjoy your application](#Enjoy-your-application)
+- [Enjoy your application!](#Enjoy-your-application!)
     - [Hint for Google Chrome users](#Hint-for-Google-Chrome-users)
 - [Some notes](#Some-notes)
 
@@ -111,7 +111,7 @@ start the frontend part in development mode
 
 development mode means, everytime you do some changes on the react application, webpack will update the bundle package.
 
-## Enjoy your application
+## Enjoy your application!
 
 Open a browser of your choice and navigate to
 
