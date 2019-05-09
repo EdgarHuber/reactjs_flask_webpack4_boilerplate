@@ -2,11 +2,11 @@
 
 ![stack](https://raw.githubusercontent.com/EdgarHuber/reactjs_flask_webpack4_boilerplate/master/readme%20images/stack.png)
 
-[Installation](#Installation)
+- [Installation](#Installation)
 
-[Start the application](#Start-the-application)
+- [Start the application](#Start-the-application)
 
-[Some notes](#Some-notes)
+- [Some notes](#Some-notes)
 
 <br>
 
