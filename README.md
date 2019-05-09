@@ -1,12 +1,12 @@
 # ReactJS - Flask - Webpack 4 - **Boilerplate**
 
-![stack](./readme images/stack.png)
+![stack](https://raw.githubusercontent.com/EdgarHuber/reactjs_flask_webpack4_boilerplate/master/readme%20images/stack.png)
 
-[Installation](# Installation)
+[Installation](#Installation)
 
-[Start the application](# Start the application)
+[Start the application](#Start-the-application)
 
-[Some notes](# Some notes)
+[Some notes](#Some-notes)
 
 
 
@@ -69,7 +69,7 @@ bundle the frontend code (still inside of static)
 
 you will see the new directory "dist", it includes bundle.js and a public folder with all neccessary files beside the javascript code
 
-![file_strucutre](./readme images/file_structure.png)
+![file_strucutre](https://raw.githubusercontent.com/EdgarHuber/reactjs_flask_webpack4_boilerplate/master/readme%20images/file_structure.png)
 
 ## Start the application
 
@@ -116,7 +116,7 @@ Open a browser of your choice and navigate to
 
 you should see the following:
 
-![webapp_screenshot](./readme images/webapp_screenshot.png)
+![webapp_screenshot](https://raw.githubusercontent.com/EdgarHuber/reactjs_flask_webpack4_boilerplate/master/readme%20images/webapp_screenshot.PNG)
 
 ### Hint for Google Chrome users
 
