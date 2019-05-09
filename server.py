@@ -16,9 +16,6 @@ def index():
 def hello():
     return get_hello()
 
-# die Funktion triggert nicht beim Aufrufen
-# ich schaetze, dass der HTML-Code beim triggern geaendert wird
-# img wird also ueber localhost:5000/static/public/images/header.jpg aufgerufen
 @app.route("/public/<path:path>")
 def get_public_file(path):
     full_path = os.path.join('./static/dist/public', path)

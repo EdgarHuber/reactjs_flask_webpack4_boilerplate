@@ -1,13 +1,8 @@
-const webpack = require('webpack');
-const resolve = require('path').resolve;
-//const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 
-//config output of bundle to public/
 const config = {
     entry:  __dirname + '/src/index.jsx',
     output: {
-        //path: __dirname + '/public',
         filename: 'bundle.js',
     },
     resolve: {
