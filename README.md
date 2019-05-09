@@ -10,7 +10,7 @@
     - [Start backend](#Start-backend)
     - [Start frontend](#Start-frontend)
 - [Enjoy your application](#Enjoy-your-application)
-    [Hint for Google Chrome users](#Hint-for-Google-Chrome-users)
+    - [Hint for Google Chrome users](#Hint-for-Google-Chrome-users)
 - [Some notes](#Some-notes)
 
 <br>
